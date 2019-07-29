@@ -3,7 +3,7 @@ This script (Substance-TDR-Values.bat) sets the registry values TdrDelay and Tdr
 If your Substance software keeps crashing within heavy GPU computations or shows you the following prompt after starting it, this script may solve your problem as it sets the recommended TDR (Timeout Detection Recovery) for Substance.
 For more information on this issue visit the [Substance Painter Docs](https://docs.substance3d.com/spdoc/gpu-drivers-crash-with-long-computations-128745489.html).
 
-![Substance Configuration Issues](screenshots/Configuration-Issues.png)
+![Substance Configuration Issues](Screenshots/Configuration-Issues.png)
 
 
 ## Run via context menu
@@ -13,11 +13,11 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 2) Open the folder containing the script in the File Explorer.
 
 3) In the File Explorer, right click Substance-Tdr-Values.bat and then select *Run as administrator* from the context menu.
-![Run as administrator from context menu](screenshots/Run-as-administrator.png)
+![Run as administrator from context menu](Screenshots/Run-as-administrator.png)
 
 4) Restart your computer.
 
-5) Whenever the issue comes up again, just re-run the script.
+5) Whenever the issue comes up again, just re-run the script and restart your computer.
 
 
 ## Run via PowerShell
@@ -27,11 +27,11 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 2) Open the folder containing the script in the File Explorer.
 
 3) In the File Explorer, go to File > Open Windows PowerShell > Open Windows PowerShell as administrator.
-![Open Windows PowerShell as administrator menu](screenshots/Open-PowerShell.png)
+![Open Windows PowerShell as administrator menu](Screenshots/Open-PowerShell.png)
 
 4) In the PowerShell type *.\Substance-TDR-Values.bat* and press Enter. Your PowerShell result should look like this:
-![PowerShell command and result](screenshots/PowerShell.png)
+![PowerShell command and result](Screenshots/PowerShell.png)
 
 5) Restart your computer.
 
-6) Whenever the issue comes up again, just re-run the script.
+6) Whenever the issue comes up again, just re-run the script and restart your computer.
