@@ -1,7 +1,7 @@
 # Substance TDR-Values
 This script (Substance-TDR-Values.bat) sets the registry values TdrDelay and TdrDdiDelay to the recommended amounts.
 If your Substance software keeps crashing within heavy GPU computations or shows you the following prompt after starting it, this script may solve your problem as it sets the recommended TDR (Timeout Detection Recovery) for Substance.
-For more information on this issue visit the [Substance Painter docs](https://docs.substance3d.com/spdoc/gpu-drivers-crash-with-long-computations-128745489.html).
+For more information on this issue visit the [Substance Painter Docs](https://docs.substance3d.com/spdoc/gpu-drivers-crash-with-long-computations-128745489.html).
 
 ![Substance Configuration Issues](screenshots/Configuration-Issues.png)
 
