@@ -12,12 +12,12 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 
 2) Open the folder containing the script in the File Explorer.
 
-3) In the File Explorer, right click Substance-Tdr-Values.bat and then select *Run as administrator* from the context menu.
+3) In the File Explorer, right click Substance-TDR-Values.bat and then select *Run as administrator* from the context menu.
 ![Run as administrator from context menu](Screenshots/Run-as-administrator.png)
 
-4) Restart your computer.
+4) Restart your computer. If you run Substance-TDR-Values-Restart.bat instead, it will restart automatically.
 
-5) Whenever the issue comes up again, just re-run the script and restart your computer.
+5) Whenever the issue comes up again, just re-run the script (and restart your computer).
 
 
 ## Run via PowerShell
@@ -32,6 +32,6 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 4) In the PowerShell type *.\Substance-TDR-Values.bat* and press Enter. Your PowerShell result should look like this:
 ![PowerShell command and result](Screenshots/PowerShell.png)
 
-5) Restart your computer.
+5) Restart your computer. If you run Substance-TDR-Values-Restart.bat instead, it will restart automatically.
 
-6) Whenever the issue comes up again, just re-run the script and restart your computer.
+6) Whenever the issue comes up again, just re-run the script (and restart your computer).
