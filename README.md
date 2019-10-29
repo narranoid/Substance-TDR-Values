@@ -6,7 +6,20 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 ![Substance Configuration Issues](Screenshots/Configuration-Issues.png)
 
 
-## Run via context menu
+## Add registration entries
+
+1) Download the registration entries file [here](../../raw/master/Substance-TDR-Values.reg).
+
+2) Open the file.
+
+3) A warning message will pop up, asking if you really want to add/modify the entries. Click *Yes* to proceed.
+
+4) Restart your computer.
+
+5) Whenever the issue comes up again, just re-run the script (and restart your computer).
+
+
+## Run script via context menu
 
 1) Download the script [here](../../raw/master/Substance-TDR-Values.bat).
 
@@ -20,7 +33,7 @@ For more information on this issue visit the [Substance Painter Docs](https://do
 5) Whenever the issue comes up again, just re-run the script (and restart your computer).
 
 
-## Run via PowerShell
+## Run script via PowerShell
 
 1) Download the script [here](../../raw/master/Substance-TDR-Values.bat).
 
